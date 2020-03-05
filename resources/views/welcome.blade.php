@@ -6,7 +6,7 @@
     @else
         <div class="container text-center mt-5">
             <div class="display-3 m-b-md">
-                Selma The cutie
+                InstagramClone
             </div>
             <span>Made by Mouad Benali</span>
         </div>

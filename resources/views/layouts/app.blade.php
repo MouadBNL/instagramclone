@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Selma The cutie</title>
+    <title>InstagramClone</title>
     <link rel="shortcut icon" href="/svg/logo.svg" type="image/x-icon">
 
     <!-- Scripts -->
